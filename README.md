@@ -1,34 +1,12 @@
-# Student Performance Prediction
+﻿# Student Performance Prediction
 
-## Overview
-This project predicts student performance (grades) using machine learning techniques. The main analysis and modeling are in the notebook `Student_Performance_Prediction.ipynb`.
+Machine Learning Project
 
-## Files
-- `Student_Performance_Prediction.ipynb` — main notebook with EDA, feature engineering, model training, and evaluation.
+This repository contains a Student Performance Prediction machine learning project. It includes the Jupyter notebook Student_Performance_Prediction.ipynb, dataset files, and supporting scripts for training and evaluation.
 
-## Requirements
-- Python 3.8+
-- Common packages: pandas, numpy, scikit-learn, matplotlib, seaborn, jupyter
+Files:
+- Student_Performance_Prediction.ipynb
+- student-mat.csv (dataset)
+- student-merge.R
+- student.txt
 
-Install dependencies:
-
-```
-python -m pip install -r requirements.txt
-# or
-python -m pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-```
-
-## How to run
-1. Open the notebook with Jupyter Lab or Notebook:
-
-```
-jupyter notebook "Student_Performance_Prediction.ipynb"
-```
-
-2. Run the cells in order. Ensure dataset files (if any) are placed in a `data/` folder or update the notebook paths accordingly.
-
-## Notes
-- If you want, provide the dataset location, author name, or license and I will update this README.
-
-## Contact
-Created on your machine. Update this README with project-specific details as needed.
